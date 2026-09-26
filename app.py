@@ -28,4 +28,4 @@ else:
     st.info("👆 Upar se photo upload karo bestie!")
 
 st.markdown("---")
-st.caption("Made with ❤️ by Mamna for Hackathon 2026")
+st.caption("Made with ❤️ by Mamta for Hackathon 2026")
